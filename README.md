@@ -1,4 +1,4 @@
-![profile](http://blogs.quovantis.com/wp-content/uploads/2018/09/swaggerintegration-01.png)
+![profile](https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_960_720.jpg)
 
 
 <h1 align="center">Hi there 👋, I'm Michael Adetona</h1>

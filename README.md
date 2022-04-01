@@ -1,7 +1,7 @@
 ![profile](https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_960_720.jpg)
 
 
-<h1 align="center">Hi there 👋, I'm Michael Adetona</h1>
+# Hi there 👋, I'm Michael Adetona
 
 <p align="center"><b> I'm from Osun-State Nigeria, and I do web Design and Development. I really enjoy writing program logics and codes ,as well as working with GIS and Remote Sensing. </b></p>
 
@@ -20,7 +20,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   

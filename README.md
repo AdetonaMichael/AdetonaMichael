@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate On Geospatial Related Coding Projects
 - 🤔 I’m looking for help with Securing a Job with an IT firm, company, Oraganization or a Startup
 - 💬 Ask me about Python, Laravel, Surveying, Geoinformatics, Remote Sensing, Web and Desktop Applications
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cyberlord/)
+- 📫 How to reach me: <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CyberlordRoboto?color=%20&logo=twitter&style=for-the-badge">
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Techie with afinity For Science and Technology. A lover of Sci-fi & Electro
 

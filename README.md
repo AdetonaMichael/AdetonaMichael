@@ -1,7 +1,7 @@
 ![profile](https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_960_720.jpg)
 
 
-# Hi there 👋, I'm Michael Adetona
+# <center>Hi there 👋, I'm Michael Adetona</center>
 
 <p align="center"><b> I'm from Osun-State Nigeria, and I do web Design and Development. I really enjoy writing program logics and codes ,as well as working with GIS and Remote Sensing. </b></p>
 

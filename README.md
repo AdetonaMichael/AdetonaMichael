@@ -1,4 +1,4 @@
-![profile](https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_960_720.jpg)
+![profile](https://www.canva.com/design/DAE9qtVti_Q/p4Zjkq1PSMCJ7hVxK84Xww/watch?utm_content=DAE9qtVti_Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 
 <h1 align="center"> Hi there 👋, I'm Michael Adetona</h1>

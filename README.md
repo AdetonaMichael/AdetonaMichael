@@ -1,5 +1,5 @@
 
-![Michael Adetona](https://user-images.githubusercontent.com/36950610/162950405-f0358c9c-7530-48ad-8c00-304ff5c58ef6.png)
+![Michael Adetona](https://cdn.pixabay.com/photo/2016/06/25/12/52/laptop-1478822_960_720.jpg)
 
 
 <h1 align="center"> Hi there 👋, I'm Michael Adetona</h1>

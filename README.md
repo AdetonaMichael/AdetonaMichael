@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with Securing a Job with an IT firm, company, Oraganization or a Startup
 - 💬 Ask me about Python, Laravel, Surveying, Geoinformatics, Remote Sensing, Web and Desktop Applications
 - 📫 How to reach me: 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: Techie with afinity For Science and Technology. A lover of Sci-fi & Electro
 
 #### Technologies and Tools

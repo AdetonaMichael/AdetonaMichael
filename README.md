@@ -12,7 +12,7 @@
 - 🌱 I’m Proficient with using Laravel (PHP Frame work)
 - 👯 I’m looking to collaborate On Geospatial Related Coding Projects
 - 🤔 I’m looking for help with Securing a Job with an IT firm, company, Oraganization or a Startup
-- 💬 Ask me about Python, Laravel, Surveying, Geoinformatics, Remote Sensing, Web and Desktop Applications
+- 💬 Ask me about Python, Laravel, livewire, Vanilla JS, React, Surveying, Geoinformatics, Remote Sensing,Geoserver, GIS, Web and Desktop Applications etc.
 - 📫 How to reach me: 
 - 😄 Pronouns: I am
 - ⚡ Fun fact: Techie with afinity For Science and Technology. A lover of Sci-fi & Electro

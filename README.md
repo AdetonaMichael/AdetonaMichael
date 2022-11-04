@@ -27,6 +27,6 @@
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CyberlordRoboto?color=%20&logo=twitter&style=for-the-badge">
 
 </p>
-  [![@cyberlord's Holopin board](https://holopin.me/cyberlord)](https://holopin.io/@cyberlord)
+  ![@cyberlord's Holopin board](https://holopin.me/cyberlord)(https://holopin.io/@cyberlord)
 Thanks for checking out my profile.
 

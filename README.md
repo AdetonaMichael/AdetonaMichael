@@ -25,8 +25,8 @@
   <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/AdetonaMichael/AdetonaMichael/total?logo=Github&style=for-the-badge">
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CyberlordRoboto?color=%20&logo=twitter&style=for-the-badge">
-  [![@cyberlord's Holopin board](https://holopin.me/cyberlord)](https://holopin.io/@cyberlord)
-</p>
 
+</p>
+  [![@cyberlord's Holopin board](https://holopin.me/cyberlord)](https://holopin.io/@cyberlord)
 Thanks for checking out my profile.
 

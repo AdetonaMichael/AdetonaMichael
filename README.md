@@ -28,6 +28,8 @@
 
 </p>
 
-Thanks for checking out my profile.
+<h3 align="center">Badges</h3>
 
 ![laptop-g6f5dec40a_1920](https://www.holopin.me/cyberlord)
+
+Thanks for checking out my profile.

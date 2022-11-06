@@ -1,6 +1,6 @@
 
-![laptop-g6f5dec40a_1920](https://www.holopin.me/cyberlord)
-https://www.holopin.me/cyberlord
+![laptop-g6f5dec40a_1920](https://user-images.githubusercontent.com/36950610/195879424-4c80627c-9f56-45ba-9145-a2db8c21767e.jpg)
+
 
 <h1 align="center"> Hi there 👋, I'm Michael Adetona</h1>
 
@@ -27,6 +27,6 @@ https://www.holopin.me/cyberlord
  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CyberlordRoboto?color=%20&logo=twitter&style=for-the-badge">
 
 </p>
- [![@cyberlord's Holopin board](https://www.holopin.me/cyberlord)
+![laptop-g6f5dec40a_1920](https://www.holopin.me/cyberlord)
 Thanks for checking out my profile.
 

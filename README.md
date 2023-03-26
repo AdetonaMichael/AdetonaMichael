@@ -17,6 +17,8 @@
 - 😄 Pronouns: I am
 - ⚡ Fun fact: Techie with afinity For Science and Technology. A lover of Sci-fi & Electro
 
+![Profile views](https://gpvc.arturio.dev/AdetonaMichael)
+
 #### Technologies and Tools
 
 <p>

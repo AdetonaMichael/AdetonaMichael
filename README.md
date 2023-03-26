@@ -18,6 +18,9 @@
 - ⚡ Fun fact: Techie with afinity For Science and Technology. A lover of Sci-fi & Electro
 
 ![Profile views](https://gpvc.arturio.dev/AdetonaMichael)
+## My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdetonaMichael&layout=compact)](https://github.com/AdetonaMichael/github-readme-stats)
 
 #### Technologies and Tools
 

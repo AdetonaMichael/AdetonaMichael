@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdetonaMichael&layout=compact)](https://github.com/AdetonaMichael/github-readme-stats)
 
-#### Technologies and Tools
+## Technologies and Tools
 
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

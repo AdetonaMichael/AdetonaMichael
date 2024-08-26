@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Michael Adetona</h1>
 
-<p align="center"><b> I'm from Osun-State Nigeria, and I do web Design and Development. I really enjoy writing program logics and codes ,as well as working with GIS and Remote Sensing. </b></p>
+<p align="center"><b> I do Blocakchain, Defi, web Design and Development. I really enjoy writing program logics and codes ,as well as working with GIS and Remote Sensing. </b></p>
 
 
 - 🔭 

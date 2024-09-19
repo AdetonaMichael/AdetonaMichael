@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Michael Adetona</h1>
 
-<p align="center"><b> I do Blocakchain, Defi, web Design and Development. I really enjoy writing program logics and codes ,as well as working with GIS and Remote Sensing. </b></p>
+<p align="center"><b>I really enjoy writing program logics and a Big fan of Best Practices ,as well as working with GIS and Remote Sensing. </b></p>
 
 
 - 🔭 
